@@ -4,9 +4,19 @@
 .card-shadow:hover{
     transition: 0.5s;
     box-shadow: 0 0 5px black;
+    margin-top: 10px;
 }
+.list-custom{
+    list-style: none;
+}
+.article{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
 .footer{
     margin: 0;
     padding: 0;
+    padding: 15px;
     color: #fff;
 }
